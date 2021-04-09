@@ -46,3 +46,11 @@ a:nth-child(4){
   /* color: white;
   border-radius: 8px; */
 }
+
+td p a:hover{
+  color:black;
+}
+
+p a:hover{
+  color: black;
+}
