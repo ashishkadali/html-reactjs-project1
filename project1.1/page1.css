@@ -4,7 +4,8 @@
     height: 300px;
     margin: 17% 9%;
     text-align: center;
-    font-family:italic;
+    font-family:"Sofia", sans-serif;
+
 }
 
 
@@ -46,8 +47,9 @@
 
 .ashish i{
 
-    color:#f55d42;
+    color:#1c273b;
     font-size:xx-large;
     margin:10% 0%;
+    gap:unset;
     
 }
